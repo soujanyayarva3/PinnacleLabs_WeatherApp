@@ -1,5 +1,4 @@
 # PinnacleLabs_WeatherApp
-# 🌦️ Weather Forecast Application
 
 A responsive weather forecasting web application built using HTML, CSS, and JavaScript. The application provides real-time weather information for any city by integrating with a weather API, delivering accurate and up-to-date weather conditions through a clean and user-friendly interface.
 
